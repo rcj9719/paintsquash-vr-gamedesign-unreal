@@ -1,8 +1,13 @@
 # Paint Squash VR Documentation
 Megan Reddy, Nick Moon, Rhuta Joshi 
-CIS 568 Game Design: VR Project 
+CIS 568 Game Design: VR Project  
 
-![](PaintSquashLogo.PNG)
+| PaintSquashVR |
+|---|
+|![](PaintSquashLogo.PNG)|
+|[Watch trailer](https://youtu.be/A-dZ14WgZu0)|
+|[Watch gameplay](https://youtu.be/qbftf0uzTgc)|
+
 
 ## Set-up and Configuration 
 __NOTE: This game has been developed, tested, and designed for the Windows 10/11 and HTC Vive Pro 2 platforms only. Using any other setup is beyond the scope of this game.__
